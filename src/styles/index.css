@@ -38,7 +38,7 @@ body {
   background-color: #ffbfcb;
   cursor: pointer;
   transform: translateY(-20px);
-  transition-duration: 0.5s;
+  transition: all 0.5s;
 }
 
 .calendar__day:nth-child(1)::before {
